@@ -10,4 +10,4 @@ Here are some languages and tools that I'm experienced with:
 * PL/SQL and MySQL
 * MATLAB for audio signal processing
 * Atlassian JIRA, Jira REST API, JQL and Confluence
-* 
+  
