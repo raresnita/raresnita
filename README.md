@@ -5,6 +5,8 @@ My name is Rareș `(pronounced Rah-reh-sh)`, I'm a Romanian student and software
 
 Here are some languages and tools that I'm experienced with:
 * vanilla JS
+* React
+* Laravel
 * C# with .NET Framework
 * Node-RED
 * PL/SQL and MySQL
